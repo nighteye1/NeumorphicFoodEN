@@ -1,7 +1,7 @@
 # Neumporphic FoodEN
 
 A neumorphic approach to FoodEN Flutter application.
-- [FoodEN](https://github.com/taimoor61/FoodEn.git
+- [FoodEN](https://github.com/taimoor61/FoodEn.git)
 
 ## Getting Started
 
